@@ -1,0 +1,4 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.ttc filter=lfs diff=lfs merge=lfs -text
+train/train_data_cla/*.csv filter=lfs diff=lfs merge=lfs -text
+train/train_data_cla/*.txt filter=lfs diff=lfs merge=lfs -text

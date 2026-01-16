@@ -1,0 +1,21 @@
+{
+    "user_id_list": [
+        "1749127163"
+    ],
+    "filter": 0,
+    "remove_html_tag": 1,
+    "since_date": 10,
+    "start_page": 1,
+    "write_mode": [
+        "csv"
+    ],
+    "original_pic_download": 0,
+    "retweet_pic_download": 0,
+    "original_video_download": 0,
+    "retweet_video_download": 0,
+    "download_comment": 1,
+    "comment_max_download_count": 100,
+    "download_repost": 1,
+    "repost_max_download_count": 100,
+    "result_dir_name": 0
+}
